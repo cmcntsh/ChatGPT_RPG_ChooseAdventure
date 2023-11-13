@@ -1,7 +1,8 @@
 # ChatGPT_RPG_ChooseAdventure
 
 * Source:
-  * Prompt: ``` [PROMTP]
+Prompt:
+``` [PROMTP]
 
 Let's play a game. I am the sole protagonist of this story.
 
