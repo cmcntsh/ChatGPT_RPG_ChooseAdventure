@@ -76,3 +76,13 @@ And I want the setting for this game to be a (ENTER GAME TYPE HERE)
 
 And I want the Story to begin here with some details about the story to start with: (ENTER OPTIONAL STORY START OFF POINT HERE W/ANY DETAILS YOU WANT, OR DELETE THIS SECTION TO HAVE GAL CREATE STORY FROM SCRATCH)
 ```
+* Source: https://www.linkedin.com/pulse/choose-your-own-adventure-chatgpt-etienne-martin/
+```
+Prompt: Choose Your Own Adventure is a type of books where each story is written from a second-person point of view, with the reader assuming the role of the protagonist and making choices that determine the main character's actions and the plot's outcome .
+The books are written in the second person. The protagonist—that is, the reader—takes on a role relevant to the adventure, such as a private investigator, mountain climber, race car driver, doctor, or spy.
+The stories are formatted so that, after a few lines of reading, the protagonist faces two or three options, each of which leads to further pages and further options, and so on until they arrive at one of the many story endings after 10 iterations.
+Wait for my answer every-time before revealing the rest of the story.
+Write the beginning of the story. Provide me with a few option and continue until we arrive the the end of the story
+I am providing you this information because I want you to create AI texts using Choose Your Own Adventure principle. Do you understand ?
+
+```
