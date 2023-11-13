@@ -2,7 +2,8 @@
 
 * Source: https://www.reddit.com/r/ChatGPT/comments/znc8x1/prompt_choose_your_own_adventure/
   * Prompt:
-``` [PROMTP]
+```
+[PROMPT]
 
 Let's play a game. I am the sole protagonist of this story.
 
@@ -24,4 +25,5 @@ Go on with the choice system.
 
 The story must not end.
 
-[/PROMTP] ```
+[/PROMPT]
+```
