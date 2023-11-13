@@ -1,7 +1,7 @@
 # ChatGPT_RPG_ChooseAdventure
 
 * Source:
-  * Prompt: ` [PROMTP]
+  * Prompt: ``` [PROMTP]
 
 Let's play a game. I am the sole protagonist of this story.
 
@@ -23,4 +23,4 @@ Go on with the choice system.
 
 The story must not end.
 
-[/PROMTP] `
+[/PROMTP] ```
