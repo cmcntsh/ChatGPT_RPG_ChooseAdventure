@@ -1,7 +1,7 @@
 # ChatGPT_RPG_ChooseAdventure
 
-* Source:
-Prompt:
+* Source: https://www.reddit.com/r/ChatGPT/comments/znc8x1/prompt_choose_your_own_adventure/
+  * Prompt:
 ``` [PROMTP]
 
 Let's play a game. I am the sole protagonist of this story.
