@@ -1,7 +1,6 @@
 # ChatGPT_RPG_ChooseAdventure
 
 * Source: https://www.reddit.com/r/ChatGPT/comments/znc8x1/prompt_choose_your_own_adventure/
-  * Prompt:
 ```
 [PROMPT]
 
